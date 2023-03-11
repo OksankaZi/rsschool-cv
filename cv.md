@@ -34,6 +34,15 @@ Skills:
 
 Code:
 
+```
+const isGoodNickname = (nickname) => {
+  const length = nickname.length;
+  return length > 3 && length < 15;
+};
+
+isGoodNickname ('Fan');
+```
+
 Work:
 
 - LTD Company "Lex Torg", Gomel
