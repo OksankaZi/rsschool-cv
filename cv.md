@@ -1,17 +1,17 @@
-Oksana Zimenko
+# _Oksana Zimenko_
 
-Contacts:
+## Contacts:
 
-Phone: +375 33 682-40-61  
-Telegram: [Osa_Zi](https://tlgg.ru/Osa_Zi)  
-E-mail: oksanka.zimenko@gmail.com  
-GitHub: [OksankaZi](https://github.com/OksankaZi)  
-Discord: [Oksana Zimenko (@OksankaZi)](https://discordapp.com/users/992731927368974427)  
-Location: Gomel, Belarus
+**Phone:** +375 33 682-40-61  
+**Telegram:** [Osa_Zi](https://tlgg.ru/Osa_Zi)  
+**E-mail:** oksanka.zimenko@gmail.com  
+**GitHub:** [OksankaZi](https://github.com/OksankaZi)  
+**Discord:** [Oksana Zimenko (@OksankaZi)](https://discordapp.com/users/992731927368974427)  
+**Location:** Gomel, Belarus
 
 ---
 
-Summary:
+## Summary:
 
 My name is Oksana. I am 33 years old.
 
@@ -23,7 +23,7 @@ I look forward to exploring the new knowledge RSSchool is kindly providing and w
 
 ---
 
-Skills:
+## Skills:
 
 - Git, GitHub
 - VS Code
@@ -32,7 +32,7 @@ Skills:
 
 ---
 
-Code:
+## Code:
 
 ```
 const isGoodNickname = (nickname) => {
@@ -43,27 +43,29 @@ const isGoodNickname = (nickname) => {
 isGoodNickname ('Fan');
 ```
 
-Work:
+---
 
-- LTD Company "Lex Torg", Gomel
+## Work:
+
+- **LTD Company "Lex Torg", Gomel**
   - manager of retail department (2006 - 2007)
   - manager of wholesale department (2007 - 2016)
   - head of sales department (2016 - 2021)
-- IT sphere:
+- **IT sphere:**
   - I have no such work experience yet
 
 ---
 
-Education:
+## Education:
 
-- Belarusian Trade and Economics University of Consumer Cooperatives, Gomel
+- **Belarusian Trade and Economics University of Consumer Cooperatives, Gomel**
   - Management of Foreign Economic Activity, spaciality "World Economics" (2006 - 2011)
-- RS Schools Course
+- **RS Schools Course**
   - JavaScript/Frontend Pre-School 2022Q4 (in progress)
 
 ---
 
-Languages:
+## Languages:
 
 - Russian - Native
 - English - Intermediate (according to the online test at EFset Logo [www.efset.org](https://www.efset.org/quick-check/))
